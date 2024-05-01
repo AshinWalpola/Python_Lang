@@ -1,0 +1,1444 @@
+MergeSort requires more than five seconds for N = 262144000
+Computation time for N = 1000, K = 1: 0 milliseconds
+Comparisons: 5044
+Exchanges: 1
+
+Computation time for N = 1000, K = 2: 0 milliseconds
+Comparisons: 5044
+Exchanges: 2
+
+Computation time for N = 1000, K = 4: 0 milliseconds
+Comparisons: 5046
+Exchanges: 4
+
+Computation time for N = 1000, K = 8: 0 milliseconds
+Comparisons: 5048
+Exchanges: 8
+
+Computation time for N = 1000, K = 16: 0 milliseconds
+Comparisons: 5054
+Exchanges: 16
+
+Computation time for N = 1000, K = 32: 0 milliseconds
+Comparisons: 5110
+Exchanges: 32
+
+Computation time for N = 1000, K = 64: 0 milliseconds
+Comparisons: 5195
+Exchanges: 64
+
+Computation time for N = 1000, K = 128: 0 milliseconds
+Comparisons: 5370
+Exchanges: 128
+
+Computation time for N = 1000, K = 256: 0 milliseconds
+Comparisons: 5963
+Exchanges: 256
+
+Computation time for N = 1000, K = 512: 0 milliseconds
+Comparisons: 7110
+Exchanges: 512
+
+Computation time for N = 2000, K = 1: 0 milliseconds
+Comparisons: 11088
+Exchanges: 1
+
+Computation time for N = 2000, K = 2: 0 milliseconds
+Comparisons: 11088
+Exchanges: 2
+
+Computation time for N = 2000, K = 4: 0 milliseconds
+Comparisons: 11090
+Exchanges: 4
+
+Computation time for N = 2000, K = 8: 0 milliseconds
+Comparisons: 11096
+Exchanges: 8
+
+Computation time for N = 2000, K = 16: 0 milliseconds
+Comparisons: 11106
+Exchanges: 16
+
+Computation time for N = 2000, K = 32: 0 milliseconds
+Comparisons: 11131
+Exchanges: 32
+
+Computation time for N = 2000, K = 64: 1 milliseconds
+Comparisons: 11243
+Exchanges: 64
+
+Computation time for N = 2000, K = 128: 0 milliseconds
+Comparisons: 11456
+Exchanges: 128
+
+Computation time for N = 2000, K = 256: 0 milliseconds
+Comparisons: 11989
+Exchanges: 256
+
+Computation time for N = 2000, K = 512: 0 milliseconds
+Comparisons: 13061
+Exchanges: 512
+
+Computation time for N = 2000, K = 1024: 0 milliseconds
+Comparisons: 15773
+Exchanges: 1024
+
+Computation time for N = 4000, K = 1: 1 milliseconds
+Comparisons: 24176
+Exchanges: 1
+
+Computation time for N = 4000, K = 2: 0 milliseconds
+Comparisons: 24176
+Exchanges: 2
+
+Computation time for N = 4000, K = 4: 7 milliseconds
+Comparisons: 24178
+Exchanges: 4
+
+Computation time for N = 4000, K = 8: 0 milliseconds
+Comparisons: 24181
+Exchanges: 8
+
+Computation time for N = 4000, K = 16: 1 milliseconds
+Comparisons: 24198
+Exchanges: 16
+
+Computation time for N = 4000, K = 32: 1 milliseconds
+Comparisons: 24242
+Exchanges: 32
+
+Computation time for N = 4000, K = 64: 0 milliseconds
+Comparisons: 24323
+Exchanges: 64
+
+Computation time for N = 4000, K = 128: 0 milliseconds
+Comparisons: 24556
+Exchanges: 128
+
+Computation time for N = 4000, K = 256: 1 milliseconds
+Comparisons: 25078
+Exchanges: 256
+
+Computation time for N = 4000, K = 512: 0 milliseconds
+Comparisons: 26119
+Exchanges: 512
+
+Computation time for N = 4000, K = 1024: 1 milliseconds
+Comparisons: 28878
+Exchanges: 1024
+
+Computation time for N = 4000, K = 2048: 0 milliseconds
+Comparisons: 34541
+Exchanges: 2048
+
+Computation time for N = 8000, K = 1: 0 milliseconds
+Comparisons: 52352
+Exchanges: 1
+
+Computation time for N = 8000, K = 2: 1 milliseconds
+Comparisons: 52352
+Exchanges: 2
+
+Computation time for N = 8000, K = 4: 0 milliseconds
+Comparisons: 52352
+Exchanges: 4
+
+Computation time for N = 8000, K = 8: 1 milliseconds
+Comparisons: 52359
+Exchanges: 8
+
+Computation time for N = 8000, K = 16: 1 milliseconds
+Comparisons: 52363
+Exchanges: 16
+
+Computation time for N = 8000, K = 32: 0 milliseconds
+Comparisons: 52394
+Exchanges: 32
+
+Computation time for N = 8000, K = 64: 0 milliseconds
+Comparisons: 52513
+Exchanges: 64
+
+Computation time for N = 8000, K = 128: 1 milliseconds
+Comparisons: 52718
+Exchanges: 128
+
+Computation time for N = 8000, K = 256: 0 milliseconds
+Comparisons: 53225
+Exchanges: 256
+
+Computation time for N = 8000, K = 512: 0 milliseconds
+Comparisons: 54428
+Exchanges: 512
+
+Computation time for N = 8000, K = 1024: 0 milliseconds
+Comparisons: 57028
+Exchanges: 1024
+
+Computation time for N = 8000, K = 2048: 0 milliseconds
+Comparisons: 62706
+Exchanges: 2048
+
+Computation time for N = 8000, K = 4096: 1 milliseconds
+Comparisons: 75210
+Exchanges: 4096
+
+Computation time for N = 16000, K = 1: 2 milliseconds
+Comparisons: 112704
+Exchanges: 1
+
+Computation time for N = 16000, K = 2: 3 milliseconds
+Comparisons: 112704
+Exchanges: 2
+
+Computation time for N = 16000, K = 4: 2 milliseconds
+Comparisons: 112705
+Exchanges: 4
+
+Computation time for N = 16000, K = 8: 2 milliseconds
+Comparisons: 112707
+Exchanges: 8
+
+Computation time for N = 16000, K = 16: 2 milliseconds
+Comparisons: 112715
+Exchanges: 16
+
+Computation time for N = 16000, K = 32: 2 milliseconds
+Comparisons: 112763
+Exchanges: 32
+
+Computation time for N = 16000, K = 64: 2 milliseconds
+Comparisons: 112862
+Exchanges: 64
+
+Computation time for N = 16000, K = 128: 2 milliseconds
+Comparisons: 113086
+Exchanges: 128
+
+Computation time for N = 16000, K = 256: 2 milliseconds
+Comparisons: 113546
+Exchanges: 256
+
+Computation time for N = 16000, K = 512: 2 milliseconds
+Comparisons: 114739
+Exchanges: 512
+
+Computation time for N = 16000, K = 1024: 2 milliseconds
+Comparisons: 117358
+Exchanges: 1024
+
+Computation time for N = 16000, K = 2048: 1 milliseconds
+Comparisons: 123061
+Exchanges: 2048
+
+Computation time for N = 16000, K = 4096: 0 milliseconds
+Comparisons: 135533
+Exchanges: 4096
+
+Computation time for N = 16000, K = 8192: 1 milliseconds
+Comparisons: 162498
+Exchanges: 8192
+
+Computation time for N = 32000, K = 1: 0 milliseconds
+Comparisons: 241408
+Exchanges: 1
+
+Computation time for N = 32000, K = 2: 1 milliseconds
+Comparisons: 241408
+Exchanges: 2
+
+Computation time for N = 32000, K = 4: 1 milliseconds
+Comparisons: 241408
+Exchanges: 4
+
+Computation time for N = 32000, K = 8: 1 milliseconds
+Comparisons: 241413
+Exchanges: 8
+
+Computation time for N = 32000, K = 16: 1 milliseconds
+Comparisons: 241425
+Exchanges: 16
+
+Computation time for N = 32000, K = 32: 2 milliseconds
+Comparisons: 241460
+Exchanges: 32
+
+Computation time for N = 32000, K = 64: 1 milliseconds
+Comparisons: 241552
+Exchanges: 64
+
+Computation time for N = 32000, K = 128: 2 milliseconds
+Comparisons: 241777
+Exchanges: 128
+
+Computation time for N = 32000, K = 256: 1 milliseconds
+Comparisons: 242284
+Exchanges: 256
+
+Computation time for N = 32000, K = 512: 2 milliseconds
+Comparisons: 243430
+Exchanges: 512
+
+Computation time for N = 32000, K = 1024: 1 milliseconds
+Comparisons: 246051
+Exchanges: 1024
+
+Computation time for N = 32000, K = 2048: 0 milliseconds
+Comparisons: 251740
+Exchanges: 2048
+
+Computation time for N = 32000, K = 4096: 1 milliseconds
+Comparisons: 264283
+Exchanges: 4096
+
+Computation time for N = 32000, K = 8192: 1 milliseconds
+Comparisons: 291226
+Exchanges: 8192
+
+Computation time for N = 32000, K = 16384: 3 milliseconds
+Comparisons: 349317
+Exchanges: 16384
+
+Computation time for N = 64000, K = 1: 1 milliseconds
+Comparisons: 514816
+Exchanges: 1
+
+Computation time for N = 64000, K = 2: 1 milliseconds
+Comparisons: 514816
+Exchanges: 2
+
+Computation time for N = 64000, K = 4: 1 milliseconds
+Comparisons: 514817
+Exchanges: 4
+
+Computation time for N = 64000, K = 8: 1 milliseconds
+Comparisons: 514823
+Exchanges: 8
+
+Computation time for N = 64000, K = 16: 1 milliseconds
+Comparisons: 514843
+Exchanges: 16
+
+Computation time for N = 64000, K = 32: 1 milliseconds
+Comparisons: 514867
+Exchanges: 32
+
+Computation time for N = 64000, K = 64: 1 milliseconds
+Comparisons: 514969
+Exchanges: 64
+
+Computation time for N = 64000, K = 128: 0 milliseconds
+Comparisons: 515160
+Exchanges: 128
+
+Computation time for N = 64000, K = 256: 0 milliseconds
+Comparisons: 515722
+Exchanges: 256
+
+Computation time for N = 64000, K = 512: 1 milliseconds
+Comparisons: 516870
+Exchanges: 512
+
+Computation time for N = 64000, K = 1024: 1 milliseconds
+Comparisons: 519465
+Exchanges: 1024
+
+Computation time for N = 64000, K = 2048: 1 milliseconds
+Comparisons: 525201
+Exchanges: 2048
+
+Computation time for N = 64000, K = 4096: 1 milliseconds
+Comparisons: 537690
+Exchanges: 4096
+
+Computation time for N = 64000, K = 8192: 2 milliseconds
+Comparisons: 564593
+Exchanges: 8192
+
+Computation time for N = 64000, K = 16384: 2 milliseconds
+Comparisons: 622762
+Exchanges: 16384
+
+Computation time for N = 64000, K = 32768: 3 milliseconds
+Comparisons: 746888
+Exchanges: 32768
+
+Computation time for N = 128000, K = 1: 2 milliseconds
+Comparisons: 1093632
+Exchanges: 1
+
+Computation time for N = 128000, K = 2: 2 milliseconds
+Comparisons: 1093632
+Exchanges: 2
+
+Computation time for N = 128000, K = 4: 1 milliseconds
+Comparisons: 1093632
+Exchanges: 4
+
+Computation time for N = 128000, K = 8: 2 milliseconds
+Comparisons: 1093635
+Exchanges: 8
+
+Computation time for N = 128000, K = 16: 2 milliseconds
+Comparisons: 1093656
+Exchanges: 16
+
+Computation time for N = 128000, K = 32: 1 milliseconds
+Comparisons: 1093669
+Exchanges: 32
+
+Computation time for N = 128000, K = 64: 2 milliseconds
+Comparisons: 1093792
+Exchanges: 64
+
+Computation time for N = 128000, K = 128: 2 milliseconds
+Comparisons: 1093987
+Exchanges: 128
+
+Computation time for N = 128000, K = 256: 2 milliseconds
+Comparisons: 1094524
+Exchanges: 256
+
+Computation time for N = 128000, K = 512: 1 milliseconds
+Comparisons: 1095637
+Exchanges: 512
+
+Computation time for N = 128000, K = 1024: 2 milliseconds
+Comparisons: 1098307
+Exchanges: 1024
+
+Computation time for N = 128000, K = 2048: 2 milliseconds
+Comparisons: 1104081
+Exchanges: 2048
+
+Computation time for N = 128000, K = 4096: 2 milliseconds
+Comparisons: 1116401
+Exchanges: 4096
+
+Computation time for N = 128000, K = 8192: 2 milliseconds
+Comparisons: 1143475
+Exchanges: 8192
+
+Computation time for N = 128000, K = 16384: 3 milliseconds
+Comparisons: 1201423
+Exchanges: 16384
+
+Computation time for N = 128000, K = 32768: 4 milliseconds
+Comparisons: 1325695
+Exchanges: 32768
+
+Computation time for N = 128000, K = 65536: 8 milliseconds
+Comparisons: 1590881
+Exchanges: 65536
+
+Computation time for N = 256000, K = 1: 7 milliseconds
+Comparisons: 2315264
+Exchanges: 1
+
+Computation time for N = 256000, K = 2: 4 milliseconds
+Comparisons: 2315264
+Exchanges: 2
+
+Computation time for N = 256000, K = 4: 4 milliseconds
+Comparisons: 2315265
+Exchanges: 4
+
+Computation time for N = 256000, K = 8: 4 milliseconds
+Comparisons: 2315272
+Exchanges: 8
+
+Computation time for N = 256000, K = 16: 4 milliseconds
+Comparisons: 2315281
+Exchanges: 16
+
+Computation time for N = 256000, K = 32: 4 milliseconds
+Comparisons: 2315322
+Exchanges: 32
+
+Computation time for N = 256000, K = 64: 3 milliseconds
+Comparisons: 2315420
+Exchanges: 64
+
+Computation time for N = 256000, K = 128: 4 milliseconds
+Comparisons: 2315639
+Exchanges: 128
+
+Computation time for N = 256000, K = 256: 4 milliseconds
+Comparisons: 2316191
+Exchanges: 256
+
+Computation time for N = 256000, K = 512: 4 milliseconds
+Comparisons: 2317277
+Exchanges: 512
+
+Computation time for N = 256000, K = 1024: 4 milliseconds
+Comparisons: 2319903
+Exchanges: 1024
+
+Computation time for N = 256000, K = 2048: 4 milliseconds
+Comparisons: 2325598
+Exchanges: 2048
+
+Computation time for N = 256000, K = 4096: 4 milliseconds
+Comparisons: 2338019
+Exchanges: 4096
+
+Computation time for N = 256000, K = 8192: 4 milliseconds
+Comparisons: 2365069
+Exchanges: 8192
+
+Computation time for N = 256000, K = 16384: 5 milliseconds
+Comparisons: 2423010
+Exchanges: 16384
+
+Computation time for N = 256000, K = 32768: 6 milliseconds
+Comparisons: 2547651
+Exchanges: 32768
+
+Computation time for N = 256000, K = 65536: 9 milliseconds
+Comparisons: 2812313
+Exchanges: 65536
+
+Computation time for N = 256000, K = 131072: 15 milliseconds
+Comparisons: 3375221
+Exchanges: 131072
+
+Computation time for N = 512000, K = 1: 9 milliseconds
+Comparisons: 4886528
+Exchanges: 1
+
+Computation time for N = 512000, K = 2: 8 milliseconds
+Comparisons: 4886528
+Exchanges: 2
+
+Computation time for N = 512000, K = 4: 7 milliseconds
+Comparisons: 4886529
+Exchanges: 4
+
+Computation time for N = 512000, K = 8: 7 milliseconds
+Comparisons: 4886531
+Exchanges: 8
+
+Computation time for N = 512000, K = 16: 7 milliseconds
+Comparisons: 4886543
+Exchanges: 16
+
+Computation time for N = 512000, K = 32: 7 milliseconds
+Comparisons: 4886569
+Exchanges: 32
+
+Computation time for N = 512000, K = 64: 8 milliseconds
+Comparisons: 4886666
+Exchanges: 64
+
+Computation time for N = 512000, K = 128: 7 milliseconds
+Comparisons: 4886872
+Exchanges: 128
+
+Computation time for N = 512000, K = 256: 7 milliseconds
+Comparisons: 4887428
+Exchanges: 256
+
+Computation time for N = 512000, K = 512: 7 milliseconds
+Comparisons: 4888600
+Exchanges: 512
+
+Computation time for N = 512000, K = 1024: 7 milliseconds
+Comparisons: 4891043
+Exchanges: 1024
+
+Computation time for N = 512000, K = 2048: 7 milliseconds
+Comparisons: 4896929
+Exchanges: 2048
+
+Computation time for N = 512000, K = 4096: 7 milliseconds
+Comparisons: 4909376
+Exchanges: 4096
+
+Computation time for N = 512000, K = 8192: 8 milliseconds
+Comparisons: 4936291
+Exchanges: 8192
+
+Computation time for N = 512000, K = 16384: 7 milliseconds
+Comparisons: 4994364
+Exchanges: 16384
+
+Computation time for N = 512000, K = 32768: 9 milliseconds
+Comparisons: 5118745
+Exchanges: 32768
+
+Computation time for N = 512000, K = 65536: 12 milliseconds
+Comparisons: 5383415
+Exchanges: 65536
+
+Computation time for N = 512000, K = 131072: 18 milliseconds
+Comparisons: 5946043
+Exchanges: 131072
+
+Computation time for N = 512000, K = 262144: 29 milliseconds
+Comparisons: 7136602
+Exchanges: 262144
+
+Computation time for N = 1024000, K = 1: 15 milliseconds
+Comparisons: 10285056
+Exchanges: 1
+
+Computation time for N = 1024000, K = 2: 15 milliseconds
+Comparisons: 10285056
+Exchanges: 2
+
+Computation time for N = 1024000, K = 4: 15 milliseconds
+Comparisons: 10285057
+Exchanges: 4
+
+Computation time for N = 1024000, K = 8: 15 milliseconds
+Comparisons: 10285059
+Exchanges: 8
+
+Computation time for N = 1024000, K = 16: 15 milliseconds
+Comparisons: 10285072
+Exchanges: 16
+
+Computation time for N = 1024000, K = 32: 15 milliseconds
+Comparisons: 10285092
+Exchanges: 32
+
+Computation time for N = 1024000, K = 64: 15 milliseconds
+Comparisons: 10285220
+Exchanges: 64
+
+Computation time for N = 1024000, K = 128: 14 milliseconds
+Comparisons: 10285436
+Exchanges: 128
+
+Computation time for N = 1024000, K = 256: 15 milliseconds
+Comparisons: 10285963
+Exchanges: 256
+
+Computation time for N = 1024000, K = 512: 15 milliseconds
+Comparisons: 10287138
+Exchanges: 512
+
+Computation time for N = 1024000, K = 1024: 14 milliseconds
+Comparisons: 10289714
+Exchanges: 1024
+
+Computation time for N = 1024000, K = 2048: 14 milliseconds
+Comparisons: 10295458
+Exchanges: 2048
+
+Computation time for N = 1024000, K = 4096: 15 milliseconds
+Comparisons: 10307868
+Exchanges: 4096
+
+Computation time for N = 1024000, K = 8192: 16 milliseconds
+Comparisons: 10334947
+Exchanges: 8192
+
+Computation time for N = 1024000, K = 16384: 16 milliseconds
+Comparisons: 10392953
+Exchanges: 16384
+
+Computation time for N = 1024000, K = 32768: 17 milliseconds
+Comparisons: 10517219
+Exchanges: 32768
+
+Computation time for N = 1024000, K = 65536: 20 milliseconds
+Comparisons: 10782441
+Exchanges: 65536
+
+Computation time for N = 1024000, K = 131072: 25 milliseconds
+Comparisons: 11344734
+Exchanges: 131072
+
+Computation time for N = 1024000, K = 262144: 37 milliseconds
+Comparisons: 12535768
+Exchanges: 262144
+
+Computation time for N = 1024000, K = 524288: 61 milliseconds
+Comparisons: 15048707
+Exchanges: 524288
+
+Computation time for N = 2048000, K = 1: 28 milliseconds
+Comparisons: 21594112
+Exchanges: 1
+
+Computation time for N = 2048000, K = 2: 28 milliseconds
+Comparisons: 21594112
+Exchanges: 2
+
+Computation time for N = 2048000, K = 4: 28 milliseconds
+Comparisons: 21594114
+Exchanges: 4
+
+Computation time for N = 2048000, K = 8: 28 milliseconds
+Comparisons: 21594118
+Exchanges: 8
+
+Computation time for N = 2048000, K = 16: 29 milliseconds
+Comparisons: 21594136
+Exchanges: 16
+
+Computation time for N = 2048000, K = 32: 28 milliseconds
+Comparisons: 21594176
+Exchanges: 32
+
+Computation time for N = 2048000, K = 64: 29 milliseconds
+Comparisons: 21594262
+Exchanges: 64
+
+Computation time for N = 2048000, K = 128: 28 milliseconds
+Comparisons: 21594429
+Exchanges: 128
+
+Computation time for N = 2048000, K = 256: 28 milliseconds
+Comparisons: 21594974
+Exchanges: 256
+
+Computation time for N = 2048000, K = 512: 28 milliseconds
+Comparisons: 21596192
+Exchanges: 512
+
+Computation time for N = 2048000, K = 1024: 28 milliseconds
+Comparisons: 21598769
+Exchanges: 1024
+
+Computation time for N = 2048000, K = 2048: 28 milliseconds
+Comparisons: 21604473
+Exchanges: 2048
+
+Computation time for N = 2048000, K = 4096: 28 milliseconds
+Comparisons: 21616985
+Exchanges: 4096
+
+Computation time for N = 2048000, K = 8192: 29 milliseconds
+Comparisons: 21643826
+Exchanges: 8192
+
+Computation time for N = 2048000, K = 16384: 30 milliseconds
+Comparisons: 21701902
+Exchanges: 16384
+
+Computation time for N = 2048000, K = 32768: 31 milliseconds
+Comparisons: 21826294
+Exchanges: 32768
+
+Computation time for N = 2048000, K = 65536: 33 milliseconds
+Comparisons: 22091355
+Exchanges: 65536
+
+Computation time for N = 2048000, K = 131072: 40 milliseconds
+Comparisons: 22653876
+Exchanges: 131072
+
+Computation time for N = 2048000, K = 262144: 51 milliseconds
+Comparisons: 23844788
+Exchanges: 262144
+
+Computation time for N = 2048000, K = 524288: 75 milliseconds
+Comparisons: 26357690
+Exchanges: 524288
+
+Computation time for N = 2048000, K = 1048576: 126 milliseconds
+Comparisons: 31646217
+Exchanges: 1048576
+
+Computation time for N = 4096000, K = 1: 64 milliseconds
+Comparisons: 45236224
+Exchanges: 1
+
+Computation time for N = 4096000, K = 2: 63 milliseconds
+Comparisons: 45236224
+Exchanges: 2
+
+Computation time for N = 4096000, K = 4: 64 milliseconds
+Comparisons: 45236225
+Exchanges: 4
+
+Computation time for N = 4096000, K = 8: 64 milliseconds
+Comparisons: 45236230
+Exchanges: 8
+
+Computation time for N = 4096000, K = 16: 62 milliseconds
+Comparisons: 45236249
+Exchanges: 16
+
+Computation time for N = 4096000, K = 32: 65 milliseconds
+Comparisons: 45236271
+Exchanges: 32
+
+Computation time for N = 4096000, K = 64: 63 milliseconds
+Comparisons: 45236373
+Exchanges: 64
+
+Computation time for N = 4096000, K = 128: 63 milliseconds
+Comparisons: 45236589
+Exchanges: 128
+
+Computation time for N = 4096000, K = 256: 63 milliseconds
+Comparisons: 45237035
+Exchanges: 256
+
+Computation time for N = 4096000, K = 512: 64 milliseconds
+Comparisons: 45238257
+Exchanges: 512
+
+Computation time for N = 4096000, K = 1024: 62 milliseconds
+Comparisons: 45240929
+Exchanges: 1024
+
+Computation time for N = 4096000, K = 2048: 63 milliseconds
+Comparisons: 45246601
+Exchanges: 2048
+
+Computation time for N = 4096000, K = 4096: 65 milliseconds
+Comparisons: 45259012
+Exchanges: 4096
+
+Computation time for N = 4096000, K = 8192: 64 milliseconds
+Comparisons: 45286050
+Exchanges: 8192
+
+Computation time for N = 4096000, K = 16384: 64 milliseconds
+Comparisons: 45344111
+Exchanges: 16384
+
+Computation time for N = 4096000, K = 32768: 65 milliseconds
+Comparisons: 45468425
+Exchanges: 32768
+
+Computation time for N = 4096000, K = 65536: 69 milliseconds
+Comparisons: 45733015
+Exchanges: 65536
+
+Computation time for N = 4096000, K = 131072: 73 milliseconds
+Comparisons: 46296084
+Exchanges: 131072
+
+Computation time for N = 4096000, K = 262144: 87 milliseconds
+Comparisons: 47486914
+Exchanges: 262144
+
+Computation time for N = 4096000, K = 524288: 111 milliseconds
+Comparisons: 49999535
+Exchanges: 524288
+
+Computation time for N = 4096000, K = 1048576: 161 milliseconds
+Comparisons: 55287405
+Exchanges: 1048576
+
+Computation time for N = 4096000, K = 2097152: 268 milliseconds
+Comparisons: 66387867
+Exchanges: 2097152
+
+Computation time for N = 8192000, K = 1: 129 milliseconds
+Comparisons: 94568448
+Exchanges: 1
+
+Computation time for N = 8192000, K = 2: 140 milliseconds
+Comparisons: 94568448
+Exchanges: 2
+
+Computation time for N = 8192000, K = 4: 140 milliseconds
+Comparisons: 94568448
+Exchanges: 4
+
+Computation time for N = 8192000, K = 8: 126 milliseconds
+Comparisons: 94568455
+Exchanges: 8
+
+Computation time for N = 8192000, K = 16: 129 milliseconds
+Comparisons: 94568461
+Exchanges: 16
+
+Computation time for N = 8192000, K = 32: 129 milliseconds
+Comparisons: 94568493
+Exchanges: 32
+
+Computation time for N = 8192000, K = 64: 134 milliseconds
+Comparisons: 94568570
+Exchanges: 64
+
+Computation time for N = 8192000, K = 128: 131 milliseconds
+Comparisons: 94568831
+Exchanges: 128
+
+Computation time for N = 8192000, K = 256: 127 milliseconds
+Comparisons: 94569322
+Exchanges: 256
+
+Computation time for N = 8192000, K = 512: 131 milliseconds
+Comparisons: 94570536
+Exchanges: 512
+
+Computation time for N = 8192000, K = 1024: 131 milliseconds
+Comparisons: 94573100
+Exchanges: 1024
+
+Computation time for N = 8192000, K = 2048: 126 milliseconds
+Comparisons: 94578855
+Exchanges: 2048
+
+Computation time for N = 8192000, K = 4096: 122 milliseconds
+Comparisons: 94591227
+Exchanges: 4096
+
+Computation time for N = 8192000, K = 8192: 150 milliseconds
+Comparisons: 94618318
+Exchanges: 8192
+
+Computation time for N = 8192000, K = 16384: 125 milliseconds
+Comparisons: 94676273
+Exchanges: 16384
+
+Computation time for N = 8192000, K = 32768: 125 milliseconds
+Comparisons: 94800553
+Exchanges: 32768
+
+Computation time for N = 8192000, K = 65536: 153 milliseconds
+Comparisons: 95065792
+Exchanges: 65536
+
+Computation time for N = 8192000, K = 131072: 152 milliseconds
+Comparisons: 95628085
+Exchanges: 131072
+
+Computation time for N = 8192000, K = 262144: 146 milliseconds
+Comparisons: 96818748
+Exchanges: 262144
+
+Computation time for N = 8192000, K = 524288: 183 milliseconds
+Comparisons: 99331887
+Exchanges: 524288
+
+Computation time for N = 8192000, K = 1048576: 223 milliseconds
+Comparisons: 104619270
+Exchanges: 1048576
+
+Computation time for N = 8192000, K = 2097152: 346 milliseconds
+Comparisons: 115719643
+Exchanges: 2097152
+
+Computation time for N = 8192000, K = 4194304: 572 milliseconds
+Comparisons: 138966515
+Exchanges: 4194304
+
+Computation time for N = 16384000, K = 1: 294 milliseconds
+Comparisons: 197328896
+Exchanges: 1
+
+Computation time for N = 16384000, K = 2: 297 milliseconds
+Comparisons: 197328896
+Exchanges: 2
+
+Computation time for N = 16384000, K = 4: 296 milliseconds
+Comparisons: 197328898
+Exchanges: 4
+
+Computation time for N = 16384000, K = 8: 291 milliseconds
+Comparisons: 197328896
+Exchanges: 8
+
+Computation time for N = 16384000, K = 16: 286 milliseconds
+Comparisons: 197328910
+Exchanges: 16
+
+Computation time for N = 16384000, K = 32: 388 milliseconds
+Comparisons: 197328941
+Exchanges: 32
+
+Computation time for N = 16384000, K = 64: 285 milliseconds
+Comparisons: 197329051
+Exchanges: 64
+
+Computation time for N = 16384000, K = 128: 294 milliseconds
+Comparisons: 197329284
+Exchanges: 128
+
+Computation time for N = 16384000, K = 256: 288 milliseconds
+Comparisons: 197329794
+Exchanges: 256
+
+Computation time for N = 16384000, K = 512: 305 milliseconds
+Comparisons: 197330987
+Exchanges: 512
+
+Computation time for N = 16384000, K = 1024: 299 milliseconds
+Comparisons: 197333572
+Exchanges: 1024
+
+Computation time for N = 16384000, K = 2048: 306 milliseconds
+Comparisons: 197339173
+Exchanges: 2048
+
+Computation time for N = 16384000, K = 4096: 314 milliseconds
+Comparisons: 197351759
+Exchanges: 4096
+
+Computation time for N = 16384000, K = 8192: 272 milliseconds
+Comparisons: 197378665
+Exchanges: 8192
+
+Computation time for N = 16384000, K = 16384: 277 milliseconds
+Comparisons: 197436855
+Exchanges: 16384
+
+Computation time for N = 16384000, K = 32768: 273 milliseconds
+Comparisons: 197560955
+Exchanges: 32768
+
+Computation time for N = 16384000, K = 65536: 263 milliseconds
+Comparisons: 197825908
+Exchanges: 65536
+
+Computation time for N = 16384000, K = 131072: 265 milliseconds
+Comparisons: 198388668
+Exchanges: 131072
+
+Computation time for N = 16384000, K = 262144: 277 milliseconds
+Comparisons: 199580131
+Exchanges: 262144
+
+Computation time for N = 16384000, K = 524288: 301 milliseconds
+Comparisons: 202092016
+Exchanges: 524288
+
+Computation time for N = 16384000, K = 1048576: 353 milliseconds
+Comparisons: 207380095
+Exchanges: 1048576
+
+Computation time for N = 16384000, K = 2097152: 473 milliseconds
+Comparisons: 218480190
+Exchanges: 2097152
+
+Computation time for N = 16384000, K = 4194304: 707 milliseconds
+Comparisons: 241728602
+Exchanges: 4194304
+
+Computation time for N = 16384000, K = 8388608: 1304 milliseconds
+Comparisons: 290320469
+Exchanges: 8388608
+
+Computation time for N = 32768000, K = 1: 552 milliseconds
+Comparisons: 411041792
+Exchanges: 1
+
+Computation time for N = 32768000, K = 2: 574 milliseconds
+Comparisons: 411041792
+Exchanges: 2
+
+Computation time for N = 32768000, K = 4: 573 milliseconds
+Comparisons: 411041793
+Exchanges: 4
+
+Computation time for N = 32768000, K = 8: 560 milliseconds
+Comparisons: 411041800
+Exchanges: 8
+
+Computation time for N = 32768000, K = 16: 531 milliseconds
+Comparisons: 411041805
+Exchanges: 16
+
+Computation time for N = 32768000, K = 32: 527 milliseconds
+Comparisons: 411041860
+Exchanges: 32
+
+Computation time for N = 32768000, K = 64: 498 milliseconds
+Comparisons: 411041954
+Exchanges: 64
+
+Computation time for N = 32768000, K = 128: 533 milliseconds
+Comparisons: 411042178
+Exchanges: 128
+
+Computation time for N = 32768000, K = 256: 491 milliseconds
+Comparisons: 411042651
+Exchanges: 256
+
+Computation time for N = 32768000, K = 512: 500 milliseconds
+Comparisons: 411043880
+Exchanges: 512
+
+Computation time for N = 32768000, K = 1024: 506 milliseconds
+Comparisons: 411046440
+Exchanges: 1024
+
+Computation time for N = 32768000, K = 2048: 492 milliseconds
+Comparisons: 411052109
+Exchanges: 2048
+
+Computation time for N = 32768000, K = 4096: 491 milliseconds
+Comparisons: 411064583
+Exchanges: 4096
+
+Computation time for N = 32768000, K = 8192: 496 milliseconds
+Comparisons: 411091588
+Exchanges: 8192
+
+Computation time for N = 32768000, K = 16384: 504 milliseconds
+Comparisons: 411149720
+Exchanges: 16384
+
+Computation time for N = 32768000, K = 32768: 495 milliseconds
+Comparisons: 411273920
+Exchanges: 32768
+
+Computation time for N = 32768000, K = 65536: 498 milliseconds
+Comparisons: 411538959
+Exchanges: 65536
+
+Computation time for N = 32768000, K = 131072: 513 milliseconds
+Comparisons: 412101656
+Exchanges: 131072
+
+Computation time for N = 32768000, K = 262144: 596 milliseconds
+Comparisons: 413292496
+Exchanges: 262144
+
+Computation time for N = 32768000, K = 524288: 609 milliseconds
+Comparisons: 415805718
+Exchanges: 524288
+
+Computation time for N = 32768000, K = 1048576: 606 milliseconds
+Comparisons: 421093749
+Exchanges: 1048576
+
+Computation time for N = 32768000, K = 2097152: 711 milliseconds
+Comparisons: 432192434
+Exchanges: 2097152
+
+Computation time for N = 32768000, K = 4194304: 990 milliseconds
+Comparisons: 455439648
+Exchanges: 4194304
+
+Computation time for N = 32768000, K = 8388608: 1529 milliseconds
+Comparisons: 504036296
+Exchanges: 8388608
+
+Computation time for N = 32768000, K = 16777216: 2864 milliseconds
+Comparisons: 605412408
+Exchanges: 16777216
+
+Computation time for N = 65536000, K = 1: 1240 milliseconds
+Comparisons: 854851584
+Exchanges: 1
+
+Computation time for N = 65536000, K = 2: 1078 milliseconds
+Comparisons: 854851584
+Exchanges: 2
+
+Computation time for N = 65536000, K = 4: 1145 milliseconds
+Comparisons: 854851586
+Exchanges: 4
+
+Computation time for N = 65536000, K = 8: 1086 milliseconds
+Comparisons: 854851592
+Exchanges: 8
+
+Computation time for N = 65536000, K = 16: 1080 milliseconds
+Comparisons: 854851594
+Exchanges: 16
+
+Computation time for N = 65536000, K = 32: 1105 milliseconds
+Comparisons: 854851634
+Exchanges: 32
+
+Computation time for N = 65536000, K = 64: 1085 milliseconds
+Comparisons: 854851726
+Exchanges: 64
+
+Computation time for N = 65536000, K = 128: 1076 milliseconds
+Comparisons: 854851976
+Exchanges: 128
+
+Computation time for N = 65536000, K = 256: 1077 milliseconds
+Comparisons: 854852415
+Exchanges: 256
+
+Computation time for N = 65536000, K = 512: 1078 milliseconds
+Comparisons: 854853642
+Exchanges: 512
+
+Computation time for N = 65536000, K = 1024: 1073 milliseconds
+Comparisons: 854856198
+Exchanges: 1024
+
+Computation time for N = 65536000, K = 2048: 1077 milliseconds
+Comparisons: 854862014
+Exchanges: 2048
+
+Computation time for N = 65536000, K = 4096: 1074 milliseconds
+Comparisons: 854874337
+Exchanges: 4096
+
+Computation time for N = 65536000, K = 8192: 1080 milliseconds
+Comparisons: 854901461
+Exchanges: 8192
+
+Computation time for N = 65536000, K = 16384: 1076 milliseconds
+Comparisons: 854959436
+Exchanges: 16384
+
+Computation time for N = 65536000, K = 32768: 1077 milliseconds
+Comparisons: 855083581
+Exchanges: 32768
+
+Computation time for N = 65536000, K = 65536: 1079 milliseconds
+Comparisons: 855348746
+Exchanges: 65536
+
+Computation time for N = 65536000, K = 131072: 1088 milliseconds
+Comparisons: 855911493
+Exchanges: 131072
+
+Computation time for N = 65536000, K = 262144: 1103 milliseconds
+Comparisons: 857101549
+Exchanges: 262144
+
+Computation time for N = 65536000, K = 524288: 1127 milliseconds
+Comparisons: 859615448
+Exchanges: 524288
+
+Computation time for N = 65536000, K = 1048576: 1173 milliseconds
+Comparisons: 864902980
+Exchanges: 1048576
+
+Computation time for N = 65536000, K = 2097152: 1286 milliseconds
+Comparisons: 876003331
+Exchanges: 2097152
+
+Computation time for N = 65536000, K = 4194304: 1539 milliseconds
+Comparisons: 899250933
+Exchanges: 4194304
+
+Computation time for N = 65536000, K = 8388608: 2169 milliseconds
+Comparisons: 947844187
+Exchanges: 8388608
+
+Computation time for N = 65536000, K = 16777216: 3445 milliseconds
+Comparisons: 1049226914
+Exchanges: 16777216
+
+Computation time for N = 65536000, K = 33554432: 6259 milliseconds
+Comparisons: 1260374389
+Exchanges: 33554432
+
+Computation time for N = 131072000, K = 1: 2334 milliseconds
+Comparisons: 1775239168
+Exchanges: 1
+
+Computation time for N = 131072000, K = 2: 2105 milliseconds
+Comparisons: 1775239168
+Exchanges: 2
+
+Computation time for N = 131072000, K = 4: 2077 milliseconds
+Comparisons: 1775239170
+Exchanges: 4
+
+Computation time for N = 131072000, K = 8: 2245 milliseconds
+Comparisons: 1775239176
+Exchanges: 8
+
+Computation time for N = 131072000, K = 16: 2089 milliseconds
+Comparisons: 1775239183
+Exchanges: 16
+
+Computation time for N = 131072000, K = 32: 2103 milliseconds
+Comparisons: 1775239233
+Exchanges: 32
+
+Computation time for N = 131072000, K = 64: 2086 milliseconds
+Comparisons: 1775239314
+Exchanges: 64
+
+Computation time for N = 131072000, K = 128: 2194 milliseconds
+Comparisons: 1775239542
+Exchanges: 128
+
+Computation time for N = 131072000, K = 256: 2129 milliseconds
+Comparisons: 1775240011
+Exchanges: 256
+
+Computation time for N = 131072000, K = 512: 2178 milliseconds
+Comparisons: 1775241195
+Exchanges: 512
+
+Computation time for N = 131072000, K = 1024: 2139 milliseconds
+Comparisons: 1775243804
+Exchanges: 1024
+
+Computation time for N = 131072000, K = 2048: 2148 milliseconds
+Comparisons: 1775249553
+Exchanges: 2048
+
+Computation time for N = 131072000, K = 4096: 2151 milliseconds
+Comparisons: 1775262016
+Exchanges: 4096
+
+Computation time for N = 131072000, K = 8192: 2124 milliseconds
+Comparisons: 1775288907
+Exchanges: 8192
+
+Computation time for N = 131072000, K = 16384: 2171 milliseconds
+Comparisons: 1775347112
+Exchanges: 16384
+
+Computation time for N = 131072000, K = 32768: 2117 milliseconds
+Comparisons: 1775471261
+Exchanges: 32768
+
+Computation time for N = 131072000, K = 65536: 2108 milliseconds
+Comparisons: 1775736466
+Exchanges: 65536
+
+Computation time for N = 131072000, K = 131072: 2140 milliseconds
+Comparisons: 1776299305
+Exchanges: 131072
+
+Computation time for N = 131072000, K = 262144: 2220 milliseconds
+Comparisons: 1777489899
+Exchanges: 262144
+
+Computation time for N = 131072000, K = 524288: 2224 milliseconds
+Comparisons: 1780002327
+Exchanges: 524288
+
+Computation time for N = 131072000, K = 1048576: 2298 milliseconds
+Comparisons: 1785290357
+Exchanges: 1048576
+
+Computation time for N = 131072000, K = 2097152: 2301 milliseconds
+Comparisons: 1796389921
+Exchanges: 2097152
+
+Computation time for N = 131072000, K = 4194304: 2626 milliseconds
+Comparisons: 1819638302
+Exchanges: 4194304
+
+Computation time for N = 131072000, K = 8388608: 3425 milliseconds
+Comparisons: 1868232421
+Exchanges: 8388608
+
+Computation time for N = 131072000, K = 16777216: 4810 milliseconds
+Comparisons: 1969612160
+Exchanges: 16777216
+
+Computation time for N = 131072000, K = 33554432: 7731 milliseconds
+Comparisons: 2180759628
+Exchanges: 33554432
+
+Computation time for N = 131072000, K = 67108864: 13261 milliseconds
+Comparisons: 2619840653
+Exchanges: 67108864
+
+Computation time for N = 262144000, K = 1: 5345 milliseconds
+Comparisons: 3681550336
+Exchanges: 1
+
+Computation time for N = 262144000, K = 2: 5161 milliseconds
+Comparisons: 3681550336
+Exchanges: 2
+
+Computation time for N = 262144000, K = 4: 5248 milliseconds
+Comparisons: 3681550337
+Exchanges: 4
+
+Computation time for N = 262144000, K = 8: 5141 milliseconds
+Comparisons: 3681550342
+Exchanges: 8
+
+Computation time for N = 262144000, K = 16: 5461 milliseconds
+Comparisons: 3681550349
+Exchanges: 16
+
+Computation time for N = 262144000, K = 32: 5738 milliseconds
+Comparisons: 3681550375
+Exchanges: 32
+
+Computation time for N = 262144000, K = 64: 5263 milliseconds
+Comparisons: 3681550468
+Exchanges: 64
+
+Computation time for N = 262144000, K = 128: 5448 milliseconds
+Comparisons: 3681550690
+Exchanges: 128
+
+Computation time for N = 262144000, K = 256: 5815 milliseconds
+Comparisons: 3681551183
+Exchanges: 256
+
+Computation time for N = 262144000, K = 512: 5282 milliseconds
+Comparisons: 3681552417
+Exchanges: 512
+
+Computation time for N = 262144000, K = 1024: 5344 milliseconds
+Comparisons: 3681555016
+Exchanges: 1024
+
+Computation time for N = 262144000, K = 2048: 5597 milliseconds
+Comparisons: 3681560735
+Exchanges: 2048
+
+Computation time for N = 262144000, K = 4096: 5478 milliseconds
+Comparisons: 3681573210
+Exchanges: 4096
+
+Computation time for N = 262144000, K = 8192: 5311 milliseconds
+Comparisons: 3681600283
+Exchanges: 8192
+
+Computation time for N = 262144000, K = 16384: 5589 milliseconds
+Comparisons: 3681658311
+Exchanges: 16384
+
+Computation time for N = 262144000, K = 32768: 5606 milliseconds
+Comparisons: 3681782652
+Exchanges: 32768
+
+Computation time for N = 262144000, K = 65536: 5752 milliseconds
+Comparisons: 3682047320
+Exchanges: 65536
+
+Computation time for N = 262144000, K = 131072: 5855 milliseconds
+Comparisons: 3682609954
+Exchanges: 131072
+
+Computation time for N = 262144000, K = 262144: 5737 milliseconds
+Comparisons: 3683800842
+Exchanges: 262144
+
+Computation time for N = 262144000, K = 524288: 6074 milliseconds
+Comparisons: 3686313706
+Exchanges: 524288
+
+Computation time for N = 262144000, K = 1048576: 5521 milliseconds
+Comparisons: 3691600828
+Exchanges: 1048576
+
+Computation time for N = 262144000, K = 2097152: 5800 milliseconds
+Comparisons: 3702700515
+Exchanges: 2097152
+
+Computation time for N = 262144000, K = 4194304: 6743 milliseconds
+Comparisons: 3725949688
+Exchanges: 4194304
+
+Computation time for N = 262144000, K = 8388608: 6754 milliseconds
+Comparisons: 3774542941
+Exchanges: 8388608
+
+Computation time for N = 262144000, K = 16777216: 8060 milliseconds
+Comparisons: 3875921965
+Exchanges: 16777216
+
+Computation time for N = 262144000, K = 33554432: 10679 milliseconds
+Comparisons: 4087070968
+Exchanges: 33554432
+
+Computation time for N = 262144000, K = 67108864: 16709 milliseconds
+Comparisons: 4526155911
+Exchanges: 67108864
+
+Computation time for N = 262144000, K = 134217728: 29266 milliseconds
+Comparisons: 5437860576
+Exchanges: 134217728
