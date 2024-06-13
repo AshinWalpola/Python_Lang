@@ -1,17 +1,16 @@
+import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 
-# Given data
-C_values = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
-times = [9792, 10464, 9776, 10159, 11252, 10978, 11675, 10666, 11098, 11388, 12332]
-
+# Load the CSV file
+csv_file_path = '/Users/ashinwalpola/Documents/University/HAW Hamburg/IE_3/AD-Dierks/Lab/Lab03/ADL_Lab03_testing.csv'
+df = pd.read_csv(csv_file_path)
 
 # Plotting the data
 plt.figure(figsize=(10, 6))
-plt.plot(C_values, times, marker='o', linestyle='-', color='Blue')
+plt.plot(df['Balance Constant C'], df['Reading Time (ms)'], marker='o', linestyle='-')
 plt.yscale('log')
-plt.xlabel('C Values')
-plt.ylabel('Time (ms)')
-plt.title('Time Taken to Read Database vs C Values')
+plt.title('Reading Time vs Balance Constant C')
+plt.xlabel('Balance Constant C')
+plt.ylabel('Reading Time (ms)')
 plt.grid(True)
 plt.show()

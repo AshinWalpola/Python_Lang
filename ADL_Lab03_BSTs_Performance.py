@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 # Data from the file
 data = {
     "Tree Type": ["Median Lifting BST", "Redblack Tree", "Randomized BST"],
-    "Reading Database (ms)": [10232, 10409, 14863],
+    "Reading Database (ms)": [6413, 10409, 14863],
     "Height": [49, 24, 35],
     "Weight": [13828655, 13828655, 13828655],
-    "Average Distance": [27.217546, 21.786781, 22.642235]
+    "Average Distance": [27.85945, 21.786781, 22.642235]
 }
 
 # Create a DataFrame
